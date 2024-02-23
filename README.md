@@ -49,3 +49,9 @@ The script will guide you through changing your MAC address. It will:
 * You can contribute to this script's development on GitHub: https://github.com/EngineeringSample/macOS_MAC_address_changer/issues/new/choose
 
 **Feel free to leave a comment or open an issue on GitHub if you encounter any problems or have suggestions for improvement.** 
+
+Note: If you receive feedback about the file not being found in the terminal, please copy the local path of your downloaded file and use the cd command.
+
+```bash
+cd ./macOS_MAC_address_changer/macOS_MAC_address_changer.sh
+```

@@ -53,5 +53,5 @@ The script will guide you through changing your MAC address. It will:
 Note: If you receive feedback about the file not being found in the terminal, please copy the local path of your downloaded file and use the cd command.
 
 ```bash
-cd ./macOS_MAC_address_changer/macOS_MAC_address_changer.sh
+cd ./macOS_MAC_address_changer
 ```

@@ -34,7 +34,7 @@ Double-click the script file or open a terminal window and run:
 The script will guide you through changing your MAC address. It will:
 
 * Display your current MAC address.
-* Prompt you to enter a new MAC address (format: XX:XX:XX:XX:XX:XX).
+* Prompt you to enter a new MAC address (format: XX:XX:XX:XX:XX:XX). ---It is recommended to randomly change the last two digits of your original Mac address.
 * Verify the format and confirm your choice.
 * Temporarily disable your Wi-Fi, change the MAC address, and re-enable Wi-Fi.
 * Show you the new MAC address.
